@@ -13,9 +13,6 @@
 
 ## Session Overview
 
-Session Overview
-
-
 How can we characterise the statistical structure of a neural population beyond
 the firing rate of individual neurons?
 
